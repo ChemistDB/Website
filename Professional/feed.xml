@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:BD32966D-2DA3-40D3-B316-D2FDB86B5504</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-06-01T04:55:45-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FF95EF91-05FF-4AA6-940E-5369E1E5FFB2</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">FF95EF91-05FF-4AA6-940E-5369E1E5FFB2</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2013-06-01T04:55:45.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:07EEBB49-9C93-4CB1-A56E-83CE4FB06368</id>
+  <title>Bio</title>
+  <title xmlns="urn:iweb:">Bio</title>
+  <in-navbar xmlns="urn:iweb:">07EEBB49-9C93-4CB1-A56E-83CE4FB06368</in-navbar>
+  <link rel="alternate" href="Bio.html"/>
+  <updated>2013-06-01T04:55:45.002-04:00</updated>
+  <content>Bio</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3D84E97E-1510-41BC-A74E-405E36A7FE3C</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">3D84E97E-1510-41BC-A74E-405E36A7FE3C</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2013-06-01T04:55:45.003-04:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CB93F269-41EF-497E-BBF9-0CB3765B9D7C</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">CB93F269-41EF-497E-BBF9-0CB3765B9D7C</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2013-06-01T04:55:45.004-04:00</updated>
+  <content>Teaching</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5A4B0C96-A3C9-4E77-9F6E-087F29660CA2</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">5A4B0C96-A3C9-4E77-9F6E-087F29660CA2</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2013-06-01T04:55:45.005-04:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3951DB60-55A2-4080-B174-58B95C301E9F</id>
+  <title>Outreach</title>
+  <title xmlns="urn:iweb:">Outreach</title>
+  <in-navbar xmlns="urn:iweb:">3951DB60-55A2-4080-B174-58B95C301E9F</in-navbar>
+  <link rel="alternate" href="Outreach.html"/>
+  <updated>2013-06-01T04:55:45.006-04:00</updated>
+  <content>Outreach</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0FFDEF6A-4FEA-4655-8A0C-C2D1DC247EDD</id>
+  <title>News</title>
+  <title xmlns="urn:iweb:">News</title>
+  <in-navbar xmlns="urn:iweb:">0FFDEF6A-4FEA-4655-8A0C-C2D1DC247EDD</in-navbar>
+  <link rel="alternate" href="News.html"/>
+  <updated>2013-06-01T04:55:45.007-04:00</updated>
+  <content>News</content>
+ </entry>
+</feed>
